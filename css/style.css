@@ -63,6 +63,8 @@
                 text-align:center;
             }
             
+            
+            
             @media only screen and (min-width: 900px) {
                 #wrapper {
                     display: flex;
@@ -87,4 +89,6 @@
                     font-size: 24px;
                     line-height: 36px;
                 }
+                
 
+            }
