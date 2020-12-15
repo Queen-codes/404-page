@@ -38,7 +38,7 @@
 
 ### Built With
 
--[HTML].
+- [HTML].
 - [CSS]
 
 
@@ -54,4 +54,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 - GitHub [@Queen-codes](https://github.com/Queen-codes)
-- Twitter [@your-twitter](https://twitter.com/Queen Islamiat Fawale)
+- Twitter [@i_Queeening](https://twitter.com/i_Queeening)
